@@ -1,0 +1,103 @@
+git
+git config -l
+git config --global user.name "Adrian Abramczyk"
+git config --global user.email "adrian410a@gmail.com"
+git init
+cd .git
+cd .git
+git status
+git status
+git add README.md 
+tree .git
+git commit
+tree .git
+git log
+git add index.html 
+git commit -m "Ajout de index.html"
+git status
+git branch
+git branch -v
+git checkout -b prob53
+git checkout -b css
+git checkout master
+git checkout css
+git status
+git diff
+git diff --cached
+git add
+git add index.html
+git diff --cached
+git commit
+git diff
+git checkout master
+git diff
+git status
+git merge css
+git log
+git status
+git commit
+git commit
+tree .git
+gedit .gitconfig
+git lol
+git
+git lol
+gedit .gitconfig&
+git lol
+git branch -v
+history | egrep git
+history | egrep $git
+history | egrep "$git"
+history | egrep "^git"
+history | egrep ^git
+git branch -v
+git checkout b1e098d
+git lol
+git checkout b1e09
+git lol
+git checkout b233
+git lol
+git checkout b1e0
+git checkout css
+git tag v0.1.0
+git tag
+git show v0.1.0
+git tag -d v0.1.0
+git tag -a v0.1.0 -m "La version avec ss"
+git tag -d v0.1.0
+git tag -a v0.1.0 -m "La version avec css"
+git show v0.1.0
+git show v0.1.0
+git lol
+git checkout css
+git commit -a -m "Couleur de fond : bleu"
+git checkout master
+git merge css
+git commit
+git diff
+git commit
+git commit
+git add index.html 
+git commit
+git merge css
+git lol
+git stash
+git lol
+git stash lol
+git merge css
+git status
+git stash lol
+git lol
+git stash
+git lol
+git lol
+git stash
+git status
+history | egrep git
+git remote add origin git remote add origin https://github.com/adrian410/td_git.git
+git remote add origin https://github.com/adrian410/td_git.git
+git remote add origin https://github.com/adrian410/td_git.git
+git push -u origin master
+history | egrep git
+history | cut -c 8- | egrep git
+
